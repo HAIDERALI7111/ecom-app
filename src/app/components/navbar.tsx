@@ -14,7 +14,7 @@ const Navbar = () => {
       width={80}
       height={80}
       />
-      <span className="ml-3 text-xl bg-blue-700">Satrangi </span>
+      <span className="ml-3 text-xl bg-blue-200">Satrangi </span>
     </a>
     <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center">
       <a className="mr-5 text-bold font-sans hover:text-green-400">Summer Collections</a>
