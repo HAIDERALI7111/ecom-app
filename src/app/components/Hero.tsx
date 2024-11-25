@@ -2,7 +2,7 @@
 import Image from 'next/image';
 import React from 'react'
 import Typewriter from 'typewriter-effect';
-import MyImage from '../../../public/hero image.webp';
+
 
 const Hero = () => {
   return (
